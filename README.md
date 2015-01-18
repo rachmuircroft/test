@@ -1,2 +1,2 @@
 # test
-kicking about with GitHub, used Git before but from a subversion background.  
+kicking about with GitHub, used Git before but from a SVN background.  
